@@ -16,7 +16,7 @@
     Drawbacks,
     Accuracy
 
-https://github.com/assassint2017/MICCAI-LITS201
+
 
 https://in.mathworks.com/help/images/marker-controlled-watershed-segmentation.html;jsessionid=474909ddb3fc567b5ba04829c4ee
 
